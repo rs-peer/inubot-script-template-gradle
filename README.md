@@ -14,8 +14,11 @@ goldfarming script
 - [ ] Perform the method optimally
 - [ ] Config
 - [ ] Banking
+  - [ ] Restore prayer and health at bank or PoH pool if applicable
+    - [ ] Additionally, overheal at bank if using anglerfish and it benefits the method
 - [ ] Death handling
 - [ ] Restocking
+- [ ] Automatically toggling in game settings (audio, alchemy warning)
   - [ ] Including retry strategies if items take too long to buy or sell
 - [ ] Recharging/refilling items (blowpipe, rune pouch, repairing armor if desirable)
 - [ ] Bonding
