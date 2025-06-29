@@ -18,11 +18,20 @@ goldfarming script
 - [ ] Restocking
   - [ ] Including retry strategies if items take too long to buy or sell
 - [ ] Recharging/refilling items (blowpipe, rune pouch, repairing armor if desirable)
+- [ ] Bonding
 - [ ] If not done via muling - find a way for accs to self sustain supplies/bonds (Typically 
   selling items or alching loot)
+- [ ] Selling items if applicable Generally avoid uniques to avoid crashing prices (just mule 
+  them!)
 - [ ] Muling (typically after a unique item is received, or after X wealth is made)
 - [ ] Miscellenous features
-  - [ ] Combat style switching
+  - [ ] Combat style switching for eventual gear progression and stat upgrades
+    - Examples
+      - If a script is optimal with fang, prioritize 82 attack
+      - If you're 82-99-75, switch to training attack and then defence, then switch back to 
+        strength when all are 99
   - [ ] World hopping 
     - [ ] Extra world hop configurations (ignore AUS worlds, ignore EU worlds)
 - [ ] Discord Webhooks
+- [ ] Automatically stopping script if unable to continue (out of coins, can't pay death cost, 
+  stuck due to some other issue)
