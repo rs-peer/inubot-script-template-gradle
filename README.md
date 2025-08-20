@@ -1,9 +1,16 @@
 ### Script Template
 
 This repo consists of the following: 
-- Maven config
+- Gradle config
 - .gitignore 
 - Basic project setup
+
+### Project Setup
+- [ ] update the project name in settings.gradle.kts
+- [ ] update the group and version in build.gradle.kts
+- [ ] run `./gradlew build` to build the project. The jar file will be also copied to inubot/scripts.
+- [ ] optional, assign a shortcut key to build the project.
+  - [ ] Open the gradle window, expand tasks, build structures. Then right click on the build task and select: Assign Shortcut.
 
 
 ### Script "completion" checklist
